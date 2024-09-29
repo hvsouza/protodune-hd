@@ -1,6 +1,5 @@
 *.root
 *.zip
-*.txt
 *.tar
 *.npy
 *.hdf5
