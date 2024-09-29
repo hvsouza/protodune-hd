@@ -1,0 +1,13 @@
+*.root
+*.zip
+*.txt
+*.tar
+*.npy
+*.hdf5
+.ipynb_checkpoints
+*_C.d
+*_C.so
+*.pcm
+*_C_ACLiC_dict*
+*.dat
+
