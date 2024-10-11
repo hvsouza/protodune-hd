@@ -51,7 +51,8 @@ with pl.Config(tbl_rows=35):
     print(dfcosmics)
     print(dfled)
 
-dfcosmics.write_csv("cosmic_runs.csv")
+
+# dfcosmics.write_csv("cosmic_runs.csv")
 
 
 
